@@ -1,5 +1,5 @@
 ---
 applications:
- - name: GetStartedNode
+ - name: NextBachelor
    random-route: true
    memory: 256M
